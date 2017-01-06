@@ -1,3 +1,6 @@
+CLOSED
+
+
 HW 07.10.2016[deadline for all tasks 07.10.2016]
 
 1. create reusable styles and custom them in prev HW
